@@ -7,3 +7,5 @@ Creation system test for electronic box.
 Prueba del sistema Creación de caja electrónica.
 
 Creation Systemtest für die Elektronikbox.
+
+電子ボックスの作成システムテスト。
